@@ -1,10 +1,10 @@
 import { StyleSheet, Text, View } from "react-native";
 import React from "react";
 
-export default function test() {
+export default function gantifile() {
   return (
     <View>
-      <Text>test</Text>
+      <Text>gantifile</Text>
     </View>
   );
 }
